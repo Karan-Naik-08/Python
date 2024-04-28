@@ -1,4 +1,3 @@
-#Python Practice Repository
 Welcome to my Python practice repository! Here, you'll find a collection of Jupyter Notebook files covering a wide range of Python topics, from fundamental syntax to advanced data science techniques. 
 
 Here's Roadmap To Learn Python
